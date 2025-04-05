@@ -9,6 +9,7 @@ This project explores trends and predictors of global video game sales using inf
 
 ## 🎯 Objectives
 
+- Conduct exploratory data analysis (EDA) to identify key trends and variables (full EDA performed in earlier phase; summary included here)
 - Explore global sales patterns by genre, platform, and region
 - Perform statistical hypothesis testing to draw statistically valid conclusions from real-world sales data
 - Apply t-tests to compare means across groups (genre, region)
