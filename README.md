@@ -53,11 +53,11 @@ video-game-sales-analysis/ ├── Final_Report.pdf # Full report with EDA, hy
 5. Run visualization.R to generate the figures for the report
 
 ## 📌 Dataset
-The original dataset is publicly available on Kaggle:
-Video Game Sales 2024 – by Hosam Mhmd Ali: https://www.kaggle.com/datasets/hosammhmdali/video-game-sales-2024
+The original dataset is publicly available on Kaggle:  
+[**Video Game Sales 2024** – by Hosam Mhmd Ali](https://www.kaggle.com/datasets/hosammhmdali/video-game-sales-2024)
 
-For this project, a cleaned and preprocessed version is included in the data/ folder as:
-videogames_dataset_cleaned_csv.csv
+For this project, a cleaned and preprocessed version is included in the `data/` folder as:  
+`videogames_dataset_cleaned_csv.csv`
 
 ---
 
