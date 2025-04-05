@@ -52,8 +52,16 @@ video-game-sales-analysis/ ├── Final_Report.pdf # Full report with EDA, hy
 4. Use hypothesis_tests.R and regression_analysis.R to perform the full analysis
 5. Run visualization.R to generate the figures for the report
 
+## 📌 Dataset
+The original dataset is publicly available on Kaggle:
+Video Game Sales 2024 – by Hosam Mhmd Ali: https://www.kaggle.com/datasets/hosammhmdali/video-game-sales-2024
 
-👤 Author
+For this project, a cleaned and preprocessed version is included in the data/ folder as:
+videogames_dataset_cleaned_csv.csv
+
+---
+
+## 👤 Author
 Jose De Leon
 Master’s in Analytics Candidate, Northeastern University
 📬 Email: j.angel2294@gmail.com
