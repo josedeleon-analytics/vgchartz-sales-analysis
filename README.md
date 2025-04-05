@@ -56,7 +56,7 @@ video-game-sales-analysis/ ├── Final_Report.pdf # Full report with EDA, hy
 👤 Author
 José De León
 Master’s in Analytics Candidate, Northeastern University
-📬 Email: j.ange2294@gmail.com
+📬 Email: j.angel2294@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/jose-de-leon-analytics/
 
 
