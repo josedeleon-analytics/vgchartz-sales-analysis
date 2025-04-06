@@ -52,7 +52,7 @@ video-game-sales-analysis/ ├── Final_Report.pdf # Full report with EDA, hy
 - [README.md](README.md): Project overview and documentation  
 - [Final Report](Final_Report.pdf): Full report with EDA, t-tests, regression, and visualizations  
 - [csv file](data/videogames_dataset_cleaned_csv.csv): Cleaned dataset used for analysis  
-- [R script](R%20code/Final%20Project%20%E2%80%94%20Milestone%203.R): Main R script for statistical testing and regression  
+- [R script]([R%20code/Final%20Project%20%E2%80%94%20Milestone%203.R](https://github.com/josedeleon-analytics/vgchartz-sales-analysis/blob/main/r_code/final_project_analysis.R)): Main R script for statistical testing and regression  
 - [plots](plots/): Visualizations including scatterplots, residuals, and Q-Q plots  
 - `.gitignore`: Files excluded from version control  
 - `LICENSE`: Repository licensing information  
