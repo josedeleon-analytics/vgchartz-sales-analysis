@@ -1,6 +1,6 @@
 # 🎮 Video Game Sales Analysis
 
-![License](https://img.shields.io/github/license/josedeleon-analytics/video-game-sales-analysis)
+[![License](https://img.shields.io/github/license/your-username/your-repo)](LICENSE)
 ![GitHub last commit](https://img.shields.io/github/last-commit/josedeleon-analytics/video-game-sales-analysis)
 ![Top Language](https://img.shields.io/github/languages/top/josedeleon-analytics/video-game-sales-analysis)
 
