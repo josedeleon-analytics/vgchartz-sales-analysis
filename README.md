@@ -71,7 +71,13 @@ The original dataset is publicly available on Kaggle:
 
 For this project, a cleaned and preprocessed dataset is included in the [`data/`](https://github.com/josedeleon-analytics/vgchartz-sales-analysis/tree/main/data) folder and can be accessed directly via [`videogames_dataset_cleaned_csv.csv`](https://github.com/josedeleon-analytics/vgchartz-sales-analysis/blob/main/data/videogames_dataset_cleaned_csv.csv).
 
+---
 
+## 📸 Screenshots
+
+| Feature                    | Screenshot Example                                                                 |
+|----------------------------|-------------------------------------------------------------------------------------|
+| Shooter vs. Action Sales   | ![Shooter vs. Action](https://github.com/josedeleon-analytics/vgchartz-sales-analysis/blob/main/plots/shooter%20vs%20action.png) |
 
 ---
 
