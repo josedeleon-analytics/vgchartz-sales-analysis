@@ -27,7 +27,7 @@ This project explores trends and predictors of global video game sales using inf
 - [`R script`](https://github.com/josedeleon-analytics/vgchartz-sales-analysis/blob/main/r_code/final_project_analysis.R): R script for data cleaning, hypothesis testing, and regression  
 - [`CSV file`](https://github.com/josedeleon-analytics/vgchartz-sales-analysis/blob/main/data/videogames_dataset_cleaned_csv.csv): Cleaned dataset used in the project  
 - [`plots`](https://github.com/josedeleon-analytics/vgchartz-sales-analysis/tree/main/plots): Output visualizations used in the report (scatterplots, residuals, Q-Q plots)  
-- [`gitignore`](https://github.com/josedeleon-analytics/vgchartz-sales-analysis/blob/main/.gitignore): Files/folders excluded from version control  
+- [`.gitignore`](https://github.com/josedeleon-analytics/vgchartz-sales-analysis/blob/main/.gitignore): Files/folders excluded from version control  
 - [`LICENSE`](https://github.com/josedeleon-analytics/vgchartz-sales-analysis/blob/main/LICENSE): Open-source license information  
 - [`README.md`](https://github.com/josedeleon-analytics/vgchartz-sales-analysis/blob/main/README.md): Project overview and documentation  
 
