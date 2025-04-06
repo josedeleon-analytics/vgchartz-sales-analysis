@@ -68,8 +68,9 @@ git clone https://github.com/josedeleon-analytics/video-game-sales-analysis
 The original dataset is publicly available on Kaggle:  
 [**Video Game Sales 2024** – by Hosam Mhmd Ali](https://www.kaggle.com/datasets/hosammhmdali/video-game-sales-2024)
 
-For this project, a cleaned and preprocessed version is included in the `data/` folder as:  
-`[videogames_dataset_cleaned_csv.csv](https://github.com/josedeleon-analytics/vgchartz-sales-analysis/blob/main/data/videogames_dataset_cleaned_csv.csv)`
+For this project, a cleaned and preprocessed dataset is included in the [`data/`](https://github.com/josedeleon-analytics/vgchartz-sales-analysis/tree/main/data) folder and can be accessed directly via [`videogames_dataset_cleaned_csv.csv`](https://github.com/josedeleon-analytics/vgchartz-sales-analysis/blob/main/data/videogames_dataset_cleaned_csv.csv).
+
+
 
 ---
 
