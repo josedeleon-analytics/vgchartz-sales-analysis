@@ -24,7 +24,7 @@ This project explores trends and predictors of global video game sales using inf
 ## 📁 Repository Structure
 
 - [`Final_Report.pdf`](https://github.com/josedeleon-analytics/vgchartz-sales-analysis/blob/main/Final_Report.pdf): Full report with EDA, hypotheses, regression, and visualizations  
-- [`R script`](https://github.com/josedeleon-analytics/vgchartz-sales-analysis/blob/main/R%20code/Final%20Project%20%E2%80%94%20Milestone%203.R): R script for data cleaning, hypothesis testing, and regression  
+- [`R script`](https://github.com/josedeleon-analytics/vgchartz-sales-analysis/blob/main/r_code/final_project_analysis.R): R script for data cleaning, hypothesis testing, and regression  
 - [`CSV file`](https://github.com/josedeleon-analytics/vgchartz-sales-analysis/blob/main/data/videogames_dataset_cleaned_csv.csv): Cleaned dataset used in the project  
 - [`plots`](https://github.com/josedeleon-analytics/vgchartz-sales-analysis/tree/main/plots): Output visualizations used in the report (scatterplots, residuals, Q-Q plots)  
 - [`.gitignore`](https://github.com/josedeleon-analytics/vgchartz-sales-analysis/blob/main/.gitignore): Files/folders excluded from version control  
