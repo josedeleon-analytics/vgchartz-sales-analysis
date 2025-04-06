@@ -23,13 +23,14 @@ This project explores trends and predictors of global video game sales using inf
 
 ## 📁 Repository Structure
 
-- `Final_Report.pdf`: Full report with EDA, hypotheses, regression, and visualizations  
-- `R code/Final Project — Milestone 3.R`: R script for data cleaning, hypothesis testing, and regression  
-- `data/videogames_dataset_cleaned_csv.csv`: Cleaned dataset used in the project  
-- `plots/`: Output visualizations used in the report (scatterplots, residuals, Q-Q plots)  
-- `.gitignore`: Files/folders excluded from version control  
-- `LICENSE`: Open-source license information  
-- `README.md`: Project overview and documentation
+- [`Final_Report.pdf`](https://github.com/josedeleon-analytics/vgchartz-sales-analysis/blob/main/Final_Report.pdf): Full report with EDA, hypotheses, regression, and visualizations  
+- [`R code/Final Project — Milestone 3.R`](https://github.com/josedeleon-analytics/vgchartz-sales-analysis/blob/main/R%20code/Final%20Project%20%E2%80%94%20Milestone%203.R): R script for data cleaning, hypothesis testing, and regression  
+- [`data/videogames_dataset_cleaned_csv.csv`](https://github.com/josedeleon-analytics/vgchartz-sales-analysis/blob/main/data/videogames_dataset_cleaned_csv.csv): Cleaned dataset used in the project  
+- [`plots/`](https://github.com/josedeleon-analytics/vgchartz-sales-analysis/tree/main/plots): Output visualizations used in the report (scatterplots, residuals, Q-Q plots)  
+- [`.gitignore`](https://github.com/josedeleon-analytics/vgchartz-sales-analysis/blob/main/.gitignore): Files/folders excluded from version control  
+- [`LICENSE`](https://github.com/josedeleon-analytics/vgchartz-sales-analysis/blob/main/LICENSE): Open-source license information  
+- [`README.md`](https://github.com/josedeleon-analytics/vgchartz-sales-analysis/blob/main/README.md): Project overview and documentation  
+
 
 ---
 
