@@ -47,6 +47,18 @@ video-game-sales-analysis/ ├── Final_Report.pdf # Full report with EDA, hy
 
 - `R code/Final Project — Milestone 3.R`: Contains all statistical analysis in R including hypothesis testing and linear regression.
 
+## 📁 Repository Structure
+
+- [README.md](README.md): Project overview and documentation  
+- [Final Report](Final_Report.pdf): Full report with EDA, t-tests, regression, and visualizations  
+- [csv file](data/videogames_dataset_cleaned_csv.csv): Cleaned dataset used for analysis  
+- [R script](R%20code/Final%20Project%20%E2%80%94%20Milestone%203.R): Main R script for statistical testing and regression  
+- [`plots/*.png`](plots/): Visualizations including scatterplots, residuals, and Q-Q plots  
+- `.gitignore`: Files excluded from version control  
+- `LICENSE`: Repository licensing information  
+
+
+
 ---
 
 ## ▶️ How to Reproduce This Project
