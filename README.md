@@ -1,5 +1,9 @@
 # 🎮 Video Game Sales Analysis
 
+![License](https://img.shields.io/github/license/josedeleon-analytics/video-game-sales-analysis)
+![GitHub last commit](https://img.shields.io/github/last-commit/josedeleon-analytics/video-game-sales-analysis)
+![Top Language](https://img.shields.io/github/languages/top/josedeleon-analytics/video-game-sales-analysis)
+
 Final project for **ALY6010: Probability Theory & Statistics**  
 Northeastern University, College of Professional Studies
 
