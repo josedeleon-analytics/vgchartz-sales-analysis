@@ -58,9 +58,10 @@ This project explores trends and predictors of global video game sales using inf
 
 ```bash
 git clone https://github.com/josedeleon-analytics/video-game-sales-analysis
+
 1. Open the .R scripts in RStudio
 2. Run eda.R to load and clean the dataset
-3. Use hypothesis_tests.R and regression_analysis.R to perform the full analysis
+3. Run hypothesis_tests.R and regression_analysis.R to perform the full analysis
 4. Run visualization.R to generate the figures for the report
 
 ## 📌 Dataset
