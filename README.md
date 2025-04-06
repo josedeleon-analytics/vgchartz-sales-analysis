@@ -15,9 +15,11 @@ This project explores trends and predictors of global video game sales using inf
 
 - Conduct exploratory data analysis (EDA) to identify key trends and variables  
 - Explore global sales patterns by genre, platform, and region  
-- Perform statistical hypothesis testing to draw valid conclusions from real-world sales data  
+- Apply hypothesis testing to assess data-driven questions and evaluate business-relevant outcomes 
 - Apply t-tests to compare means across groups (genre, region)  
 - Use simple linear regression to test predictors of total sales (critic scores, release year, platform count)
+- Evaluate model assumptions (normality, homoscedasticity, independence) to ensure valid inference
+
 
 ---
 
@@ -40,6 +42,17 @@ This project explores trends and predictors of global video game sales using inf
 - 🧠 **Critic score** and **platform count** predict sales but with low explanatory power  
 - 🌍 **North America** is the dominant region in global video game sales  
 - 📆 **Release year** is not a significant predictor of total sales
+
+---
+
+## 💼 Relevance to Real-World Analytics
+
+This project simulates a real-world scenario where an analyst must assess what factors drive product performance across markets. The insights can inform:
+
+- Product launch strategy (e.g., platform count, timing)
+- Genre targeting for new game development
+- Regional marketing priorities
+- Predictive modeling of sales performance
 
 ---
 
