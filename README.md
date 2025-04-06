@@ -7,65 +7,57 @@
 Final project for **ALY6010: Probability Theory & Statistics**  
 Northeastern University, College of Professional Studies
 
-This project explores trends and predictors of global video game sales using inferential statistics and simple linear regression in R. It combines academic rigor with real-world application, making it ideal for analysts interested in data-driven decision-making in entertainment and digital markets.
+This project explores trends and predictors of global video game sales using inferential statistics and simple linear regression in R. It combines academic rigor with real-world application, ideal for analysts interested in data-driven decision-making in entertainment and digital markets.
 
 ---
 
 ## 🎯 Objectives
 
-- Conduct exploratory data analysis (EDA) to identify key trends and variables (full EDA performed in earlier phase; summary included here)
-- Explore global sales patterns by genre, platform, and region
-- Perform statistical hypothesis testing to draw statistically valid conclusions from real-world sales data
-- Apply t-tests to compare means across groups (genre, region)
+- Conduct exploratory data analysis (EDA) to identify key trends and variables  
+- Explore global sales patterns by genre, platform, and region  
+- Perform statistical hypothesis testing to draw valid conclusions from real-world sales data  
+- Apply t-tests to compare means across groups (genre, region)  
 - Use simple linear regression to test predictors of total sales (critic scores, release year, platform count)
 
 ---
 
-## 📁 Project Structure
+## 📁 Repository Structure
 
-video-game-sales-analysis/ ├── Final_Report.pdf # Full report with EDA, hypotheses, regression & visuals ├── data/ # Raw and cleaned datasets ├── R_code/ # Scripts for cleaning, analysis, and regression ├── plots/ # Histograms, scatterplots, residuals, Q-Q plots └── appendix/ # Optional: manual calculations, extra figures
+- `Final_Report.pdf`: Full report with EDA, hypotheses, regression, and visualizations  
+- `R code/Final Project — Milestone 3.R`: R script for data cleaning, hypothesis testing, and regression  
+- `data/videogames_dataset_cleaned_csv.csv`: Cleaned dataset used in the project  
+- `plots/`: Output visualizations used in the report (scatterplots, residuals, Q-Q plots)  
+- `.gitignore`: Files/folders excluded from version control  
+- `LICENSE`: Open-source license information  
+- `README.md`: Project overview and documentation
 
 ---
 
-## 🔑 Key Insights
+## 📊 Key Insights
 
-- **Shooter games** have significantly higher average sales than **Action games**
-- **Critic score** and **number of platforms** significantly predict sales, but both have low explanatory power (low R²)
-- **North America** remains the dominant region in global game sales
-- **Release year** is *not* a significant predictor of total sales
+- 🎯 **Shooter games** have significantly higher average sales than **Action games**  
+- 🧠 **Critic score** and **platform count** predict sales but with low explanatory power  
+- 🌍 **North America** is the dominant region in global video game sales  
+- 📆 **Release year** is not a significant predictor of total sales
 
 ---
 
 ## 🛠 Tools & Skills Used
 
-- R programming (base R, `ggplot2`, `dplyr`)
-- One-sample and two-sample t-tests
-- Simple linear regression
-- Data cleaning and exploratory analysis
-- Assumption checking (normality, homoscedasticity)
-- Academic-style reporting (APA citations, manually calculated t-tests)
-
----
-
-## 📁 Repository Structure
-
-- `R code/Final Project — Milestone 3.R`: Contains all statistical analysis in R including hypothesis testing and linear regression.
-
-## 📁 Repository Structure
-
-- [README.md](README.md): Project overview and documentation  
-- [Final Report](Final_Report.pdf): Full report with EDA, t-tests, regression, and visualizations  
-- [csv file](data/videogames_dataset_cleaned_csv.csv): Cleaned dataset used for analysis  
-- [R script](https://github.com/josedeleon-analytics/vgchartz-sales-analysis/blob/main/r_code/final_project_analysis.R): Main R script for statistical testing and regression  
-- [plots](plots/): Visualizations including scatterplots, residuals, and Q-Q plots  
-- `.gitignore`: Files excluded from version control  
-- `LICENSE`: Repository licensing information  
-
-
+- `R` (Base R, `ggplot2`, `dplyr`)  
+- One-sample and two-sample t-tests  
+- Simple linear regression  
+- Data cleaning and EDA  
+- Statistical assumptions: normality, homoscedasticity  
+- Manual vs. function-based calculations (`t.test()`)  
+- Academic-style reporting (APA format)
 
 ---
 
 ## ▶️ How to Reproduce This Project
+
+```bash
+git clone https://github.com/josedeleon-analytics/video-game-sales-analysis
 
 1. Clone the repo:  
    ```bash
