@@ -94,13 +94,12 @@ For this project, a cleaned and preprocessed dataset is included in the [`data/`
 
 ---
 
-## 👤 Author
-Jose De Leon
-Master’s in Analytics Candidate, Northeastern University
+## 👤 Author  
+
+**Jose De Leon**  
+🎓 Master’s in Analytics Candidate, Northeastern University  
 📬 [Email me](mailto:j.angel2294@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/jose-de-leon-analytics/)
-
-
 
 ---
 
