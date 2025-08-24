@@ -4,9 +4,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/josedeleon-analytics/vgchartz-sales-analysis)
 ![Top Language](https://img.shields.io/github/languages/top/josedeleon-analytics/vgchartz-sales-analysis)
 
-Final project for **ALY6010: Probability Theory & Statistics**  
-Northeastern University, College of Professional Studies
-
 This project explores trends and predictors of global video game sales using inferential statistics and simple linear regression in R. It combines academic rigor with real-world application, ideal for analysts interested in data-driven decision-making in entertainment and digital markets.
 
 ---
