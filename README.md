@@ -109,8 +109,6 @@ For this project, a cleaned and preprocessed dataset is included in the [`data/`
 
 4. Statista. (2023). *Most popular video game genres worldwide in 2023*. Retrieved from [https://www.statista.com](https://www.statista.com)  
 
-5. Samea, A. (2025b). *Lesson 5.4: Linear regression hypothesis testing* [Course webpage]. In ALY 6010: Probability theory and introductory statistics. Northeastern University. [https://northeastern.instructure.com/courses/200605/pages/lesson-5-4-linear-regression-hypothesis-testing?module_item_id=11680918](https://northeastern.instructure.com/courses/200605/pages/lesson-5-4-linear-regression-hypothesis-testing?module_item_id=11680918)  
-
 ---
 
 ## 👤 Author  
