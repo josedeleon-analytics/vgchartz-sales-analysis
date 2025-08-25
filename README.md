@@ -83,11 +83,33 @@ For this project, a cleaned and preprocessed dataset is included in the [`data/`
 
 ---
 
-## 📸 Screenshots
+## 📊 Key Plots
 
-| Feature                    | Screenshot Example                                                                 |
-|----------------------------|-------------------------------------------------------------------------------------|
-| Shooter vs. Action Sales   | ![Shooter vs. Action](https://github.com/josedeleon-analytics/vgchartz-sales-analysis/blob/main/plots/shooter%20vs%20action.png) |
+1. Shooter vs Action Sales (Two-Sample T-Test)  
+   ![Shooter vs Action](plots/shooter%20vs%20action.png)
+
+2. Sales vs Release Year (Regression Insight)  
+   ![Sales vs Release Year](plots/scatterplot%20hypothesis%205.png)
+
+3. Residuals vs Fitted Plot (Model Diagnostics)  
+   ![Residuals vs Fitted](plots/residuals%20vs%20fitted%20hypothesis%205.png)
+
+4. Q-Q Plot for Shooter Sales (Normality Check)  
+   ![Q-Q Plot](plots/q-q%20plot%20for%20shooter%20sales.png)
+
+---
+
+## 📚 References  
+
+1. Giant Bomb. (n.d.). *Metacritic game data analysis (too many pics?)* General Discussion. Retrieved March 19, 2025, from [https://www.giantbomb.com/forums/general-discussion-30/metacritic-game-data-analysis-too-many-pics-1495423/](https://www.giantbomb.com/forums/general-discussion-30/metacritic-game-data-analysis-too-many-pics-1495423/)  
+
+2. Samea, A. (2025a). *ALY 6010: Probability theory and introductory statistics* [Course PDF]. Department of College of Professional Studies, Northeastern University.  
+
+3. Ross, S. M. (2020). *Introductory statistics* (5th ed.). Academic Press.  
+
+4. Statista. (2023). *Most popular video game genres worldwide in 2023*. Retrieved from [https://www.statista.com](https://www.statista.com)  
+
+5. Samea, A. (2025b). *Lesson 5.4: Linear regression hypothesis testing* [Course webpage]. In ALY 6010: Probability theory and introductory statistics. Northeastern University. [https://northeastern.instructure.com/courses/200605/pages/lesson-5-4-linear-regression-hypothesis-testing?module_item_id=11680918](https://northeastern.instructure.com/courses/200605/pages/lesson-5-4-linear-regression-hypothesis-testing?module_item_id=11680918)  
 
 ---
 
