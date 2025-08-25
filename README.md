@@ -12,7 +12,7 @@ This project explores trends and predictors of global video game sales using inf
 
 - Conduct exploratory data analysis (EDA) to identify key trends and variables  
 - Explore global sales patterns by genre, platform, and region  
-- Apply hypothesis testing to assess data-driven questions and evaluate business-relevant outcomes 
+- Use hypothesis testing to evaluate group differences and business-relevant outcomes
 - Apply t-tests to compare means across groups (genre, region)  
 - Use simple linear regression to test predictors of total sales (critic scores, release year, platform count)
 - Evaluate model assumptions (normality, homoscedasticity, independence) to ensure valid inference
@@ -68,7 +68,7 @@ This project simulates a real-world scenario where an analyst must assess what f
 ## ▶️ How to Reproduce This Project
 
 ```bash
-git clone https://github.com/josedeleon-analytics/video-game-sales-analysis
+git clone https://github.com/josedeleon-analytics/vgchartz-sales-analysis
 ```
 1. Open the .R scripts in RStudio
 2. Run eda.R to load and clean the dataset
