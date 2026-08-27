@@ -1,5 +1,3 @@
-#Jose De Leon, Final Project, ALY6010, 3/30/2025
-
 
 #Part 1. Importing data  &  calling libraries
 videogames_dataset_cleaned<-read.csv("videogames_dataset_cleaned_csv.csv")
