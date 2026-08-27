@@ -103,18 +103,15 @@ For this project, a cleaned and preprocessed dataset is included in the [`data/`
 
 1. Giant Bomb. (n.d.). *Metacritic game data analysis (too many pics?)* General Discussion. Retrieved March 19, 2025, from [https://www.giantbomb.com/forums/general-discussion-30/metacritic-game-data-analysis-too-many-pics-1495423/](https://www.giantbomb.com/forums/general-discussion-30/metacritic-game-data-analysis-too-many-pics-1495423/)  
 
-2. Samea, A. (2025a). *ALY 6010: Probability theory and introductory statistics* [Course PDF]. Department of College of Professional Studies, Northeastern University.  
+2. Ross, S. M. (2020). *Introductory statistics* (5th ed.). Academic Press.  
 
-3. Ross, S. M. (2020). *Introductory statistics* (5th ed.). Academic Press.  
-
-4. Statista. (2023). *Most popular video game genres worldwide in 2023*. Retrieved from [https://www.statista.com](https://www.statista.com)  
+3. Statista. (2023). *Most popular video game genres worldwide in 2023*. Retrieved from [https://www.statista.com](https://www.statista.com)  
 
 ---
 
 ## 👤 Author  
 
 **Jose De Leon**  
-🎓 Master’s in Analytics Candidate, Northeastern University  
 📬 [Email me](mailto:j.angel2294@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/jose-de-leon-analytics/)
 
